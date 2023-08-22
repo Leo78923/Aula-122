@@ -53,6 +53,6 @@ function draw()
     {
         rect(x, y, 70, 50);
         document.getElementById("status").innerHTML = "Retângulo Desenhado.";
-        drawCircle = "";
+        drawRect = "";
     }
 } 
